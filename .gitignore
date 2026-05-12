@@ -10,6 +10,7 @@ fish/
 GIMP/
 gtk-3.0/
 # hypr/
+kanshi/
 micro/
 mozilla/
 ncspot/
@@ -18,12 +19,15 @@ obs-studio/
 pulse/
 # rofi/
 # Thunar/
+session/
 VSCodium/
 # waybar/
 xfce4/
 yay/
 
-
+# Dir hypr
+hypr/userConfigs/*
+hypr/userScripts/*
 
 # Files
 cachyos-hello.json
@@ -32,3 +36,5 @@ kwalletrc
 pavucontrol.ini
 user-dirs.dirs
 user-dirs.locale
+mimeapps.list
+QtProject.conf
