@@ -1,0 +1,34 @@
+# DIR
+
+autostart/
+BraveSoftware/
+btop/
+cachyos/
+dconf/
+fish/
+# ghostty/
+GIMP/
+gtk-3.0/
+# hypr/
+micro/
+mozilla/
+ncspot/
+nvim/
+obs-studio/
+pulse/
+# rofi/
+# Thunar/
+VSCodium/
+# waybar/
+xfce4/
+yay/
+
+
+
+# Files
+cachyos-hello.json
+dolphinrc
+kwalletrc
+pavucontrol.ini
+user-dirs.dirs
+user-dirs.locale

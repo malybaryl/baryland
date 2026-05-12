@@ -1,0 +1,4 @@
+theme = Argonaut
+background-opacity = 0.9
+cursor-color = #FFFFFF
+term = xterm-256color
