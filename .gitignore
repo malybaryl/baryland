@@ -10,6 +10,7 @@ fish/
 GIMP/
 gtk-3.0/
 # hypr/
+mpv/
 kanshi/
 micro/
 mozilla/
@@ -18,6 +19,7 @@ nvim/
 obs-studio/
 pulse/
 # rofi/
+systemd/
 # Thunar/
 session/
 VSCodium/
