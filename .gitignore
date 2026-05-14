@@ -3,6 +3,7 @@
 autostart/
 BraveSoftware/
 btop/
+composer/
 cachyos/
 dconf/
 fish/
@@ -10,6 +11,7 @@ fish/
 GIMP/
 gtk-3.0/
 # hypr/
+libreoffice
 mpv/
 kanshi/
 micro/
