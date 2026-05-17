@@ -2,8 +2,8 @@
 
 # Default application install
 echo "[INFO] Installing default Applications."
-chmod +x ./hypr/scripts/installDefaultApplications.sh
-bash ./hypr/scripts/installDefaultApplications.sh
+chmod +x ./baryland/scripts/installDefaultApplications.sh
+bash ./baryland/scripts/installDefaultApplications.sh
 
 echo "[INFO] Installing config files..."
 # Move files to .config files
