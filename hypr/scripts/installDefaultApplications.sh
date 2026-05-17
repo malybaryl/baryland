@@ -17,10 +17,11 @@ sudo pacman -S yay \
   bluez \
   bluez-utils \
   blueman \
-  brightnessctl \ 
-  hyprlock \
+  brightnessctl \
   pipewire \
   pipewire-pulse \
   python \
   ttf-jetbrains-mono-nerd \
   wireplumber
+
+# hyprlock not found!
