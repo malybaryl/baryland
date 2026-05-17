@@ -1,3 +1,5 @@
+#!/bin/bash
+
 sudo pacman -Syu
 sudo pacman -S yay \
   ghostty \
@@ -22,6 +24,7 @@ sudo pacman -S yay \
   pipewire-pulse \
   python \
   ttf-jetbrains-mono-nerd \
-  wireplumber
+  wireplumber \
+  nvim
 
 # hyprlock not found!

@@ -49,4 +49,8 @@ sudo systemctl enable --now bluetooth
 chmod +x ~/.config/baryland/scripts/installSddmTheme.sh
 bash ~/.config/baryland/scripts/installSddmTheme.sh
 
+# NvChad
+chmod +x ~/.config/baryland/scripts/installNvchad.sh
+bash ~/.config/baryland/scripts/installNvchad.sh
+
 echo "[DONE] Config installed. Recommened to reboot your system! Enjoy using Baryland :D."
