@@ -6,9 +6,9 @@
 ![Baryland login wallpaper](baryland/wallpapers/baryland-login-screen.jpg)
 
 ## Requirements
-→ Arch based system (e.g. Arch, CatchyOS (preffered))
-→ Hyprland
-→ git
+- Arch based system (e.g. Arch, CatchyOS (preffered))
+- Hyprland
+- git
 
 ## How to install?
 
